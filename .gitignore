@@ -1,6 +1,8 @@
 .DS_Store
 .vagrant
 customizable_image
+python2_image
+python3_image
 ruby20_image
 ruby21_image
 ruby22_image
